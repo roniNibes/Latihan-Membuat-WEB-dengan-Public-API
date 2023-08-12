@@ -1,5 +1,5 @@
 // with Fetch
-
+alert("masuk");
 const searchBtn = document.querySelector("#search-button"),
   searchInputVal = document.querySelector("#search-input");
 
